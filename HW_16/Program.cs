@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Tamagotchii
+namespace hw16
 {
     static class Program
     {
