@@ -1,0 +1,17 @@
+C:\Users\SYN\source\repos\FullProject\FullProject\bin\Debug\FullProject.exe.config
+C:\Users\SYN\source\repos\FullProject\FullProject\bin\Debug\FullProject.exe
+C:\Users\SYN\source\repos\FullProject\FullProject\bin\Debug\FullProject.pdb
+C:\Users\SYN\source\repos\FullProject\FullProject\obj\Debug\FullProject.csprojAssemblyReference.cache
+C:\Users\SYN\source\repos\FullProject\FullProject\obj\Debug\FullProject.Properties.Resources.resources
+C:\Users\SYN\source\repos\FullProject\FullProject\obj\Debug\FullProject.csproj.GenerateResource.cache
+C:\Users\SYN\source\repos\FullProject\FullProject\obj\Debug\FullProject.csproj.CoreCompileInputs.cache
+C:\Users\SYN\source\repos\FullProject\FullProject\obj\Debug\FullProject.exe
+C:\Users\SYN\source\repos\FullProject\FullProject\obj\Debug\FullProject.pdb
+C:\Users\SYN\source\repos\FullProject\FullProject\obj\Debug\FullProject.Jila.resources
+C:\Users\SYN\source\repos\FullProject\FullProject\obj\Debug\FullProject.Parent.resources
+C:\Users\SYN\source\repos\FullProject\FullProject\obj\Debug\FullProject.Musienko.resources
+C:\Users\SYN\source\repos\FullProject\FullProject\obj\Debug\FullProject.Skoblia.resources
+C:\Users\SYN\source\repos\FullProject\FullProject\obj\Debug\FullProject.Chernishov.resources
+C:\Users\SYN\source\repos\FullProject\FullProject\obj\Debug\FullProject.Fursenko.resources
+C:\Users\SYN\source\repos\FullProject\FullProject\obj\Debug\FullProject.Trystan.resources
+C:\Users\SYN\source\repos\FullProject\FullProject\obj\Debug\FullProject.Shelest.resources
